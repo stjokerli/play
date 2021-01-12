@@ -123,5 +123,4 @@ Advanced courses that require prior knowledge in machine learning and AI.
 * [Mathematics of Big Data and Machine Learning (MIT) (https://www.youtube.com/playlist?list=PLUl4u3cNGP62uI_DWNdWoIMsgPcLGOx-V)
 
 
-
-HERERERHEHREHERHREHREHEER
+sadfsadfsadfadsaf
